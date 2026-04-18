@@ -1,18 +1,31 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Smith & Associates Law Firm
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Founded in 2000, Smith & Associates has been serving clients with integrity and professionalism. Our team of experienced attorneys specializes in family law, corporate law, and litigation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Our Mission
 
+To provide high-quality legal services that protect our clients' rights and interests, while building lasting relationships based on trust and respect.
 
-[jekyll-organization]: https://github.com/jekyll
+## Meet the Team
+
+### John Smith, Esq.
+Managing Partner with over 25 years of experience in litigation and corporate law.
+
+### Jane Doe, Esq.
+Specializes in family law, including divorce and child custody cases.
+
+## Contact Information
+
+- Address: 123 Main Street, New York, NY 10001
+- Phone: (555) 123-4567
+- Email: info@smithlaw.com
+
+---
+
+*Disclaimer: The information provided on this website is for general informational purposes only and is not intended as legal advice.*

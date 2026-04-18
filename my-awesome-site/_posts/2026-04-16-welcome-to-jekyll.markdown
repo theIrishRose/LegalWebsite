@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Smith & Associates Law Firm"
 date:   2026-04-16 23:07:43 +0000
-categories: jekyll update
+categories: announcements
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Welcome to the official website of Smith & Associates Law Firm! We are excited to launch this platform to better serve our clients and provide valuable legal information.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Our firm specializes in family law, corporate law, and litigation. Whether you're facing a personal legal matter or need business advice, our experienced team is here to help.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Stay tuned for updates on legal news, case studies, and helpful resources. If you have any questions, don't hesitate to contact us.
 
-Jekyll also offers powerful support for code snippets:
+---
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+*This post is for informational purposes only and does not constitute legal advice.*
